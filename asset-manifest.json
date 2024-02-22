@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c51f1f7c.css",
+    "main.js": "/static/js/main.43844856.js",
+    "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
+    "static/media/ConquerTravelsProject.png": "/static/media/ConquerTravelsProject.56fa9daeefe32b7c84ef.png",
+    "static/media/Resume-Shaik Rafikpasha.pdf": "/static/media/Resume-Shaik Rafikpasha.eef5b6d55bba6ccf113c.pdf",
+    "static/media/MyPhoto.jpeg": "/static/media/MyPhoto.157e8a487388be1b40b1.jpeg",
+    "index.html": "/index.html",
+    "main.c51f1f7c.css.map": "/static/css/main.c51f1f7c.css.map",
+    "main.43844856.js.map": "/static/js/main.43844856.js.map",
+    "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51f1f7c.css",
+    "static/js/main.43844856.js"
+  ]
+}
